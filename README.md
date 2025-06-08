@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning JS
 - 📫 How to reach me t.me/darshiram
-- ⚡ Fun fact: Hehe..
+- ⚡ Fun fact: i use ARCH btw
 
 <!---
 darshiram/darshiram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
